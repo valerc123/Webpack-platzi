@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'pacificoregular';
+    src: url('../fonts/pacifico-regular-webfont.woff2') format('woff2'),
+         url('../fonts/pacifico-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    background: lightblue;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin:0;
+    font-family: 'pacificoregular';
+}

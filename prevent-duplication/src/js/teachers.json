@@ -1,0 +1,16 @@
+{
+    "teachers":[
+       {
+           "name":"Amoshito hemosho",
+           "github": "mauricioSuaza"
+       },
+       {
+        "name":"yoo",
+        "github": "valerc123"
+       },
+       {
+        "name":"Profe Leonidas",
+        "github": "LeonidasEsteban"
+       }     
+    ]
+}
